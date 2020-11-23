@@ -2,9 +2,9 @@
 Uma cópia da home do app Settings. Versão do Lenovo Vibe K6.
 
 <p>
- <img src="https://img.shields.io/static/v1?label=Languages&message=HTML%2BCSS&color=blue"/>
- <img src="https://img.shields.io/static/v1?label=Framework&message=Bootstrap%204&color=blueviolet"/>
- <img src="https://img.shields.io/static/v1?label=Icons&message=Material%20Icons&color=green"/>
+ <img src="https://img.shields.io/static/v1?label=HTML&message=5&color=blue"/>
+ <img src="https://img.shields.io/static/v1?label=CSS&message=3&color=blue"/>
+ <img src="https://img.shields.io/static/v1?label=Bootstrap&message=4&color=blueviolet"/>
 </p>
 
 ## Detalhes
